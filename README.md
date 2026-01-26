@@ -24,7 +24,7 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ##  AWS Core Services Explained
 
-### [Compute]()
+### [Compute](AWS%20Services/Module%202:%20AWS%20Compute)
 
 ### [Networking]()
 
