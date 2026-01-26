@@ -26,7 +26,8 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ### [Compute](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Compute)
 
-### [Networking]()
+### [Networking](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Networking)
+
 
 ### [Storage]()
 
@@ -50,7 +51,7 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 ---
 
 
-### [Projects Completed]()
+### [Projects Completed](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Projects)
 
 ### Static Website
 
