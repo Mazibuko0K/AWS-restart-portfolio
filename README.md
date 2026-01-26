@@ -1,5 +1,5 @@
 # AWS-restart-portfolio
-Documenting my Cloud journey.
+Documenting my Cloud journey with Aws re/Start Program
 
 #  AWS Cloud Practitioner Journey
 
