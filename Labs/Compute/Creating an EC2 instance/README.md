@@ -1,13 +1,13 @@
-# EC2 Instance Setip Lab
+# EC2 Instance Setup Lab
 ## Objective
-the task was to deploy, moniter and manage an EC2 instance, and while doing this the objective was to launch a EC2 instance, with termination protections enabled using a User data script to deply a simple web server.
+The task was to deploy, monitor, and manage an EC2 instance. The objective was to launch an EC2 instance, with termination protections enabled using a User data script to deploy a simple web server.
 
 ## Key Concepts Covered
 - Launching a web server with termination protection enabled
 - Monitoring EC2 instances
-- Modify the security group that the web server is using to allow HTTP access
-- Resize Amazon EC2 instances to scale
-- Test termination protection
+- Modifying security groups to allow HTTP access
+- Resizing Amazon EC2 instances to scale resources
+- Testing termination protection
 - Terminating EC2 instances
 
 Step 1
@@ -151,6 +151,7 @@ Once disabled, I successfully terminated the instance.
 ![Screenshot_27-1-2026_84527_us-west-2 console aws amazon com](https://github.com/user-attachments/assets/5d2282db-e5c9-4532-a004-b6b1de557625)
 
 ![Screenshot_27-1-2026_84539_us-west-2 console aws amazon com](https://github.com/user-attachments/assets/2f66ea91-340d-44ed-a9aa-542ae4155a03)
+
 
 
 
