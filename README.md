@@ -26,15 +26,11 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 * Networking
 * Databases
 ---
-
-## Modules Covered
-
-##  AWS Core Services Index
+##  AWS Core Services Index of Modules Covered
 
 ### [Compute](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Compute)
 
 * EC2 Instance Setup Lab
-
 
 ### [Networking](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Networking)
 
