@@ -5,7 +5,7 @@
 Welcome to my AWS Cloud Practitioner learning repository!  
 
 
- I’m **Khaya Mazibuko**, an aspiring **AWS Cloud Practitioner** passionate about cloud computing and continuous learning.  
+I’m a aspiring **AWS Cloud Practitioner** passionate about cloud computing and continuous learning.  
 I’m exploring how AWS services work together to build secure, scalable, and cost-effective solutions in the cloud.  
 This space documents my progress, notes, and hands-on labs as I build my foundational skills in **Amazon Web Services (AWS)**.
 
