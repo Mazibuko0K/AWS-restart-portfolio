@@ -1,7 +1,6 @@
 # AWS-restart-portfolio
-Documenting my Cloud journey with Aws re/Start Program
 
-#  AWS Cloud Practitioner Journey
+## Hello there, I'm Khaya
 
 Welcome to my AWS Cloud Practitioner learning repository!  
 
@@ -10,21 +9,30 @@ Welcome to my AWS Cloud Practitioner learning repository!
 I’m exploring how AWS services work together to build secure, scalable, and cost-effective solutions in the cloud.  
 This space documents my progress, notes, and hands-on labs as I build my foundational skills in **Amazon Web Services (AWS)**.
 
-## What I've learned during AWS re/Start
-
 ##  What You’ll Find Here
 
--  **[Organized Notes by Module]()**  
--  **[Hands-on Lab Documentation]()**  
--  **[Helpful Learning Resources]()**  
+### AWS services
 
+* EC2
+* S3
+* RDS
+* Lambda
+* VPC
+* IAM
+* Linux
+* Python
+* Networking
+* Databases
 ---
 
 ## Modules Covered
 
-##  AWS Core Services Explained
+##  AWS Core Services Index
 
 ### [Compute](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Compute)
+
+* EC2 Instance Setup Lab
+
 
 ### [Networking](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Networking)
 
@@ -38,10 +46,21 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ---
 
-##  Skills and Technologies
+## What I've learned during AWS re/Start
+
+-  Cloud security & shared responsibility model
+-  Monitoring, pricing & cost management
+-  High availability & basic cloud architecture
+-  Cloud concepts & best practices
+
+## Tools used
+
+-  Amazon Web Services (AWS)
+-  Git & GitHub
+-  Cloud-based labs & simulations
 
 ### AWS Services
-
+* Ec2
 
 
 ### Other Skills
@@ -49,20 +68,6 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 
 ---
-
-
-### [Projects Completed](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Projects)
-
-### Static Website
-
-### 3D Architecture
-
-### AWS Lex Bot
-
----
-
-## Labs
-
 
 ## Contact Information
 
@@ -74,12 +79,14 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ##  Goal
 
+Build hands on cloud projects
 To gain a solid understanding of AWS core services and prepare for the **AWS Certified Cloud Practitioner** certification exam.
-
 ---
 
+This will continously get updated to reflect my realworld skills by projects.
 
 
 
- *Learning one cloud at a time!*
+
+
 
