@@ -105,10 +105,16 @@ This represents a significant reduction compared to fixed-cost local cloud hosti
 
 ---
 ## 7 Presentation
+<img width="1846" height="806" alt="Screenshot 2026-02-08 193114" src="https://github.com/user-attachments/assets/606ef1bf-1ec1-48a8-a588-c7851e5fd4c6" />
+<img width="1852" height="799" alt="Screenshot 2026-02-08 193059" src="https://github.com/user-attachments/assets/4eb9f4d4-1c5f-4487-8068-9a459cd2d11f" />
+<img width="1836" height="896" alt="Screenshot 2026-02-08 193041" src="https://github.com/user-attachments/assets/2f354e4a-94a7-4fb8-b386-18396d9aec20" />
+<img width="1853" height="903" alt="Screenshot 2026-02-08 193136" src="https://github.com/user-attachments/assets/fcfc9ffe-7e4c-4d52-a61a-f2d2c322f74b" />
+
+
 
 ---
 
-## 7. Deployment Methodology
+## 8. Deployment Methodology
 
 1. Website files uploaded to Amazon S3
 2. Static website hosting enabled
@@ -118,7 +124,7 @@ This represents a significant reduction compared to fixed-cost local cloud hosti
 
 ---
 
-## 8. Testing and Validation
+## 9. Testing and Validation
 
 * Website content and media verified for correct loading
 * Forms tested for correct submission behaviour
@@ -126,13 +132,13 @@ This represents a significant reduction compared to fixed-cost local cloud hosti
 
 ---
 
-## 9. Conclusion
+## 10. Conclusion
 
 This project demonstrates that migrating a static business website from a local cloud provider to AWS can significantly reduce hosting costs while improving reliability, scalability, and security. AWS enables Cafena Café to focus on core business operations while benefiting from enterprise-grade infrastructure with minimal operational overhead. The implemented architecture is suitable for future expansion into additional digital services.
 
 ---
 
-## 10. Future Work
+## 11. Future Work
 
 Potential enhancements include:
 
@@ -149,4 +155,5 @@ If you want, I can now:
 * Add **citations and references**
 * Convert it into a **formal report (PDF/Word)**
 * Adapt it for **AWS Practitioner assessment language**
+
 
