@@ -1,7 +1,3 @@
-Below is the same content rewritten to meet **academic standards**: formal tone, clear structure, consistent terminology, objective language, and corrected spelling/grammar. The technical meaning and scope are unchanged.
-
----
-
 # Cafena Café Website Redesign and AWS Deployment Demonstration
 
 ## Abstract
@@ -153,3 +149,4 @@ If you want, I can now:
 * Add **citations and references**
 * Convert it into a **formal report (PDF/Word)**
 * Adapt it for **AWS Practitioner assessment language**
+
