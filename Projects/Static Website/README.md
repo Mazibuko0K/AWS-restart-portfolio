@@ -148,12 +148,3 @@ Potential enhancements include:
 * Automated deployment using AWS CI/CD services
 
 ---
-
-If you want, I can now:
-
-* Align this to a **specific academic rubric**
-* Add **citations and references**
-* Convert it into a **formal report (PDF/Word)**
-* Adapt it for **AWS Practitioner assessment language**
-
-
