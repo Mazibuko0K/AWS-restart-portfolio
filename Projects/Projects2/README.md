@@ -234,4 +234,6 @@ I intentionally chose:
 This design favors resilience, elasticity, and maintainability for an unpredictable e-commerce workload with interactive 3D assets.
 
 ![Untitled Diagram](https://github.com/user-attachments/assets/034a0523-29aa-4fb7-a4d4-8c99796717cf)
+When a user accesses the application, DNS resolution is handled by Amazon Route 53, which directs the request to Amazon CloudFront. CloudFront serves cached static content such as 3D assets when available; if the content is not cached, the request is forwarded to the Application Load Balancer within the public subnet. The ALB distributes the request across healthy AWS Fargate tasks running in private subnets across multiple Availability Zones. The Fargate service processes the request and, if data is required, first checks Amazon ElastiCache for low-latency retrieval. If the data is not cached, it queries Amazon DynamoDB via a VPC gateway endpoint for secure private access. Static assets and 3D model files are retrieved from Amazon S3, also through a VPC endpoint. The response then travels back through the ALB to CloudFront, where it may be cached for future requests, and is ultimately delivered to the user’s browser, where client-side rendering handles interaction with the 3D model.
+
 
