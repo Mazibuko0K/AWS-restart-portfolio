@@ -12,7 +12,7 @@ This is the primary reason for understanding AWS global infrastructure. Deployin
 * Load distribution across geographically separated data centers
 * Disaster recovery and business continuity planning
 
-The island stabilization team did not want their system to go offline due to a single data center failure, so a multi-AZ deployment works well here—especially for systems where downtime could have serious consequences. Due to AWS's infrastructure design, you get resilience: each Availability Zone has independent power, cooling, and networking, so failures are isolated and don't cascade. AWS also connects AZs with high-bandwidth, low-latency networking, enabling synchronous replication.
+The island stabilization team did not want their system to go offline due to a single data center failure, so a multi-AZ deployment works well here especially for systems where downtime could have serious consequences. Due to AWS's infrastructure design, you get resilience: each Availability Zone has independent power, cooling, and networking, so failures are isolated and don't cascade. AWS also connects AZs with high-bandwidth, low-latency networking, enabling synchronous replication.
 
 In essence, you implement multi-AZ architecture when you need to ensure your application remains available even during infrastructure failures, making it perfect for the stabilization team's reliability requirements where system uptime is non-negotiable.
 
