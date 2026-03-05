@@ -12,7 +12,7 @@ This is the primary reason for using Auto Scaling Groups with defined capacity l
 * Automatic recovery from instance failures without manual intervention
 * Predictable server capacity aligned with business requirements
 
-The gaming café did not want to manually monitor and restart failed servers or risk runaway costs from uncapped scaling, so an Auto Scaling Group with capacity restrictions works well here—especially when balancing uptime requirements with budget constraints. Due to the self-healing nature of ASGs, you get reliability: when an instance fails health checks, it's automatically terminated and a replacement is launched within the defined capacity limits. AWS also provides health check grace periods and cooldown timers to prevent premature terminations.
+The gaming café did not want to manually monitor and restart failed servers or risk runaway costs from uncapped scaling, so an Auto Scaling Group with capacity restrictions works well here especially when balancing uptime requirements with budget constraints. Due to the self-healing nature of ASGs, you get reliability: when an instance fails health checks, it's automatically terminated and a replacement is launched within the defined capacity limits. AWS also provides health check grace periods and cooldown timers to prevent premature terminations.
 
 In essence, you implement auto-healing with capacity controls when you need guaranteed server availability within defined limits, ensuring the gaming café's servers stay online for customers while operational costs remain predictable and controlled.
 
