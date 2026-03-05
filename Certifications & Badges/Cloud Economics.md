@@ -12,7 +12,7 @@ This is the primary reason for using AWS pricing calculators and cost management
 * Cost modeling for different traffic scenarios and growth projections
 * Budget allocation and stakeholder approval for cloud projects
 
-The surf shop did not want to deploy infrastructure without understanding ongoing operational costs, so creating a detailed cost estimate works well here—especially when presenting proposals to business stakeholders who need clear ROI projections. Due to AWS's transparent, pay-as-you-go pricing model, you get predictability: estimate costs based on expected usage patterns, then adjust the architecture to meet budget constraints before spending a dollar. AWS also provides pricing tiers and volume discounts that can be factored into long-term planning.
+The surf shop did not want to deploy infrastructure without understanding ongoing operational costs, so creating a detailed cost estimate works well here especially when presenting proposals to business stakeholders who need clear ROI projections. Due to AWS's transparent, pay-as-you-go pricing model, you get predictability: estimate costs based on expected usage patterns, then adjust the architecture to meet budget constraints before spending a dollar. AWS also provides pricing tiers and volume discounts that can be factored into long-term planning.
 
 In essence, you perform cloud economics analysis when you need to answer "how much will this cost?" before building, ensuring the surf shop's online store is financially viable and the proposed architecture aligns with their budget and business goals.
 
