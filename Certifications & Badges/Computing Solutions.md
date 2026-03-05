@@ -12,7 +12,7 @@ This is the primary reason for understanding EC2 instance families and types. Di
 * General-purpose instances (T/M-family) for balanced web applications
 * Storage-optimized instances (I/D-family) for data warehousing
 
-The school did not want to continue experiencing performance issues with their current instance, so upgrading to a properly sized EC2 instance works well here—especially when workload requirements have grown beyond the original deployment. Due to the flexibility of EC2, you get adaptability: instances can be stopped, resized, and restarted with minimal downtime, allowing infrastructure to evolve with application needs. AWS also offers a wide range of instance types optimized for specific workload characteristics.
+The school did not want to continue experiencing performance issues with their current instance, so upgrading to a properly sized EC2 instance works well here especially when workload requirements have grown beyond the original deployment. Due to the flexibility of EC2, you get adaptability: instances can be stopped, resized, and restarted with minimal downtime, allowing infrastructure to evolve with application needs. AWS also offers a wide range of instance types optimized for specific workload characteristics.
 
 In essence, you implement computing solutions when you need to align your infrastructure with actual application requirements, ensuring the class scheduling system has adequate resources to handle increased demand without overpaying for unnecessary capacity.
 
