@@ -1,19 +1,19 @@
-# Auto Healing and Scaling Applications
+# Auto-Healing and Scaling Applications
 
-The goal of this project was to implement Amazon EC2 Auto Scaling to automatically maintain application availability and dynamically adjust capacity based on demand, ensuring optimal performance while minimizing costs.
+The goal of this project was to implement an Amazon EC2 Auto Scaling Group for a gaming café to automatically replace failed servers while maintaining strict capacity limits, demonstrating how to balance high availability with controlled provisioning costs.
 
 ## Theory & the "Why"
 
-**High Availability & Automatic Recovery (Resilient Infrastructure):**
-This is the primary reason for using Auto Scaling with auto healing capabilities. Auto Scaling Groups (ASGs) continuously monitor the health of EC2 instances and automatically replace unhealthy instances, while also scaling capacity up or down based on demand. This enables use cases such as:
+**Automated Health Monitoring & Capacity Controls (Self-Healing with Budget Constraints):**
+This is the primary reason for using Auto Scaling Groups with defined capacity limits. Gaming cafés need their servers to automatically recover from failures to maintain customer experience, but they also need to cap the number of running instances to control costs and prevent unlimited scaling. This enables use cases such as:
 
-* Web applications with variable traffic patterns
-* Microservices and containerized workloads
-* Batch processing and scheduled workloads
-* Mission-critical applications requiring high uptime
+* Health checks that automatically terminate and replace unhealthy EC2 instances
+* Minimum, maximum, and desired capacity settings to control infrastructure costs
+* Automatic recovery from instance failures without manual intervention
+* Predictable server capacity aligned with business requirements
 
-The customer did not want to manually intervene during traffic spikes or instance failures, so an automated solution works well here—especially when paired with CloudWatch alarms and target tracking policies. Due to the self-healing nature of Auto Scaling, you get continuous availability: if an instance fails health checks, it's automatically terminated and replaced. Auto Scaling also optimizes costs by scaling in during low-demand periods and scaling out during peak times.
+The gaming café did not want to manually monitor and restart failed servers or risk runaway costs from uncapped scaling, so an Auto Scaling Group with capacity restrictions works well here—especially when balancing uptime requirements with budget constraints. Due to the self-healing nature of ASGs, you get reliability: when an instance fails health checks, it's automatically terminated and a replacement is launched within the defined capacity limits. AWS also provides health check grace periods and cooldown timers to prevent premature terminations.
 
-In essence, you implement Auto Scaling with auto healing when you need a resilient, cost-effective, and self-managing infrastructure that automatically responds to both failures and changing demand without manual intervention.
+In essence, you implement auto-healing with capacity controls when you need guaranteed server availability within defined limits, ensuring the gaming café's servers stay online for customers while operational costs remain predictable and controlled.
 
 ![Screenshot_23-2-2026_114513_](https://github.com/user-attachments/assets/c497b0dd-62db-42d9-98d1-988f441ce4ec)
