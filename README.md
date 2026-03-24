@@ -41,9 +41,9 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ### [Security](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Certifications%20%26%20Badges)
 
-### [Linex](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Linux)
+### [Linux](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Linux)
 
-### [Python](https://github.com/Mazibuko0K/AWS-restart-portfolio/edit/main/README.md)
+### [Python](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/python)
 
 
 ---
