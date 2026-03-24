@@ -37,7 +37,7 @@ This space documents my progress, notes, and hands-on labs as I build my foundat
 
 ### [Storage]()
 
-### [Databases](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Certifications%20%26%20Badges)
+### [Databases](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Databases)
 
 ### [Security](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Certifications%20%26%20Badges)
 
