@@ -13,7 +13,7 @@
 
 <br/>
 
-> *"Building secure, scalable, and cost-effective cloud solutions — one lab at a time."*
+> *"Building secure, scalable, and cost-effective cloud solutions - one lab at a time."*
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm an aspiring **AWS Cloud Practitioner** who completed the **AWS re/Start programme** — a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
+I'm an aspiring **AWS Cloud Practitioner** who completed the **AWS re/Start programme** - a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
 
 This repository is a living record of my cloud journey: notes, lab walkthroughs, and hands-on AWS work.
 
@@ -67,7 +67,7 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 ## 🔬 Labs & Projects
 
 ### ⚡ [Compute](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Compute)
-- **EC2 Instance Setup Lab** — Launched, configured, and connected to an EC2 instance; configured security groups and key pairs.
+- **EC2 Instance Setup Lab** - Launched, configured, and connected to an EC2 instance; configured security groups and key pairs.
 
 ### 🌐 [Networking](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Labs/Networking)
 - VPC configuration, subnetting, and routing exercises.
@@ -105,7 +105,7 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 | Platform | Details |
 |---|---|
 | 📧 **Email** | [kmazibuko431@gmail.com](mailto:kmazibuko431@gmail.com) |
-| 💻 **GitHub** | You're already here — feel free to explore the labs! |
+| 💻 **GitHub** | You're already here feel free to explore the labs! |
 
 </div>
 
