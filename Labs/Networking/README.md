@@ -1,2 +1,1 @@
-# Compute EC2
 
