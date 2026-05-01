@@ -112,8 +112,8 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 
 - [x] Complete the **AWS re/Start** programme
 - [x] Earn the **AWS Certified Cloud Practitioner** certification ✅
-- [ ] Build and deploy a full end-to-end AWS project (EC2 + S3 + RDS)
-- [ ] Automate cloud tasks using **Python & AWS CLI**
+- [x] Build and deploy a full end-to-end AWS project (EC2 + S3 + RDS)
+- [x] Automate cloud tasks using **Python & AWS CLI**
 - [ ] Land my first **Cloud Support / Junior Cloud** role
 
 ---
