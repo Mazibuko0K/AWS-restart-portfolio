@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm an **AWS Certified Cloud Practitioner** and proud **AWS re/Start Graduate** — a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
+I'm an **AWS Certified Cloud Practitioner** and proud **AWS re/Start Graduate**  a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
 
 This repository is a living record of my cloud journey: notes, lab walkthroughs, and hands-on AWS work.
 
@@ -125,7 +125,7 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 | Platform | Details |
 |---|---|
 | 📧 **Email** | [kmazibuko431@gmail.com](mailto:kmazibuko431@gmail.com) |
-| 💻 **GitHub** | You're already here — feel free to explore the labs! |
+| 💻 **GitHub** | You're already here - feel free to explore the labs! |
 
 </div>
 
