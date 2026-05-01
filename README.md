@@ -32,9 +32,9 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 <div align="center">
 
 <a href="https://www.credly.com/badges/2121e909-0a42-4818-8260-fcd348dfa4cd/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b7a566954/image.png" width="160" alt="AWS re/Start Graduate Badge" title="AWS re/Start Graduate — Click to verify" />
+  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="160" alt="AWS re/Start Graduate Badge" title="AWS re/Start Graduate — Click to verify" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.credly.com/badges/3aa94954-3517-49c8-98e1-9dc63bd22208/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner (CLF-C02) — Click to verify" />
 </a>
