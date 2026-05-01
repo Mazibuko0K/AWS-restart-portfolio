@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=200&section=header&text=Khaya%20Mazibuko&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AWS%20Cloud%20Practitioner%20in%20Training&descSize=18&descAlignY=58&descColor=FFFDE7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=200&section=header&text=Khaya%20Mazibuko&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AWS%20Certified%20Cloud%20Practitioner&descSize=18&descAlignY=58&descColor=FFFDE7&animation=fadeIn" />
 
 <!-- BADGES ROW -->
 <p>
   <img src="https://img.shields.io/badge/AWS-Re%2FStart%20Graduate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Practitioner%20Path-232F3E?style=for-the-badge&logo=icloud&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-00C851?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C851?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-Cloud%20Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
@@ -21,9 +21,28 @@
 
 ## 👋 About Me
 
-I'm an aspiring **AWS Cloud Practitioner** who completed the **AWS re/Start programme** - a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
+I'm an **AWS Certified Cloud Practitioner** and proud **AWS re/Start Graduate** — a rigorous, hands-on cloud training initiative. I'm passionate about how AWS services come together to solve real-world infrastructure problems, and I'm actively building a portfolio of labs and projects to demonstrate those skills.
 
 This repository is a living record of my cloud journey: notes, lab walkthroughs, and hands-on AWS work.
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/2121e909-0a42-4818-8260-fcd348dfa4cd/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b7a566954/image.png" width="160" alt="AWS re/Start Graduate Badge" title="AWS re/Start Graduate — Click to verify" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/3aa94954-3517-49c8-98e1-9dc63bd22208/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner (CLF-C02) — Click to verify" />
+</a>
+
+<br/>
+<sub>🔗 Click either badge to verify on Credly</sub>
+
+</div>
 
 ---
 
@@ -85,13 +104,14 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 - Python scripting exercises applied to cloud automation scenarios.
 
 ### 🏅 [Certifications & Badges](https://github.com/Mazibuko0K/AWS-restart-portfolio/tree/main/Certifications%20%26%20Badges)
-- AWS re/Start completion badge and certification progress.
+- AWS re/Start Graduate badge and AWS Certified Cloud Practitioner (CLF-C02).
 
 ---
 
 ## 🎯 Goals
 
-- [ ] Earn the **AWS Certified Cloud Practitioner** certification
+- [x] Complete the **AWS re/Start** programme
+- [x] Earn the **AWS Certified Cloud Practitioner** certification ✅
 - [ ] Build and deploy a full end-to-end AWS project (EC2 + S3 + RDS)
 - [ ] Automate cloud tasks using **Python & AWS CLI**
 - [ ] Land my first **Cloud Support / Junior Cloud** role
@@ -105,7 +125,7 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 | Platform | Details |
 |---|---|
 | 📧 **Email** | [kmazibuko431@gmail.com](mailto:kmazibuko431@gmail.com) |
-| 💻 **GitHub** | You're already here feel free to explore the labs! |
+| 💻 **GitHub** | You're already here — feel free to explore the labs! |
 
 </div>
 
@@ -114,7 +134,5 @@ This repository is a living record of my cloud journey: notes, lab walkthroughs,
 <div align="center">
 
 *This portfolio is continuously updated as I complete new labs and build real-world cloud projects.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=footer&reversal=false" />
 
 </div>
